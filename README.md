@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React Js**
 
-- 🤝 I’m looking for help with **AniFLIX**
+- 🤝 I’m looking for help with **Monkey**
 
 - 👨‍💻 All of my projects are available at [animeshshukla.netlify.app](animeshshukla.netlify.app)
 

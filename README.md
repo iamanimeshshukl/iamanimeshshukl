@@ -1,7 +1,7 @@
 ![MaterHead](https://cdn.dribbble.com/users/3071726/screenshots/12948541/media/b0d1cf9faf53929d3af340e609d838f5.gif)
 <h1 align="center">I'm Animesh Shukla</h1>
 <h3 align="center"> Founder Tranner | Stock Investor | Tech Enthusiast </h3>
-<img align="right" alt="Code" width="400" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
+<img align="right" alt="Code" width="400" src="https://t4.ftcdn.net/jpg/02/84/69/23/360_F_284692342_FkKunloWDjhyfVsmUxxnGJQjR3fiOZ4U.jpg">
 
 - 🔭 I’m currently working on **Web Development**
 

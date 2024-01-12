@@ -41,7 +41,6 @@
 <div>
 <h3 alight="left">Activity:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanimeshshukl&show_icons=true&locale=en&layout=compact" alt="iamanimeshshukl" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamanimeshshukl&" alt="iamanimeshshukl" /></p>
 </div>
 <h3 alight="left">About Me:</h3>
 <p>Welcome to my GitHub profile! Let's connect and collaborate.I am Animesh Shukla, a seasoned Full Stack Developer with six years of hands-on programming expertise. Specializing in crafting robust and scalable web applications, I bring a passion for coding and a keen eye for innovative solutions to every project. My proficiency spans a wide array of programming languages and technologies, enabling me to create seamless user experiences and efficient backend systems. Committed to staying ahead in the ever-evolving tech landscape, I thrive on challenges and continuously seek opportunities to expand my skills. Let's connect and explore how my expertise can contribute to your next digital endeavor.</p>

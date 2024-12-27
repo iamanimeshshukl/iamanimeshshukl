@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Monkey**
 
-- 👨‍💻 All of my projects are available at [animeshshukla.netlify.app](animeshshukla.netlify.app)
+- 👨‍💻 All of my projects are available at [animeshshukla.netlify.app](animeshshukla.vercel.app)
 
 - 💬 Ask me about **react , vite , nodejs**
 

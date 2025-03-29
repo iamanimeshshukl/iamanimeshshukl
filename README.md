@@ -1,6 +1,6 @@
 ![MaterHead](https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif)
 <h1 align="center">I'm Animesh Shukla</h1>
-<h3 align="center"> Founder Monkey | Stock Investor | Tech Enthusiast </h3>
+<h3 align="center"> Founder Zenher | Stock Investor | Tech Enthusiast </h3>
 <img align="right" alt="Code" width="400" src="https://t4.ftcdn.net/jpg/02/84/69/23/360_F_284692342_FkKunloWDjhyfVsmUxxnGJQjR3fiOZ4U.jpg">
 
 - 🔭 I’m currently working on **Web Development**
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Monkey**
 
-- 👨‍💻 All of my projects are available at [animeshshukla.netlify.app](animeshshukla.vercel.app)
+- 👨‍💻 All of my projects are available at [animeshshukla.vercel.app](animeshshukla.vercel.app)
 
 - 💬 Ask me about **react , vite , nodejs**
 

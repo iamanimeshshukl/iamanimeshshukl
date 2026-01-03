@@ -23,7 +23,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="css" width="40" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="javascript" width="40" height="40"> 
 <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="bootstrap" width="40" height="40"> 
-<img src="https://seeklogo.com/images/A/appwrite-logo-D33B39992A-seeklogo.com.png" alt="tailwind" width="40" height="40"> 
+ 
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="vuetify" width="40" height="40"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrJUOQXlRtAe2cdNnbqjDNrOB2oGyp1a3bwg&usqp=CAU" alt="vuetify" width="40" height="40"> 
 <img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" alt="vuetify" width="40" height="40"> 
